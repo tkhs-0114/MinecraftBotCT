@@ -1,0 +1,2 @@
+% gcc -o Minecraft_Contest/minebot.exe MinecraftBotCT/testbot.c Minecraft_Contest/control.c
+./Minecraft_Contest/minebot.exe
